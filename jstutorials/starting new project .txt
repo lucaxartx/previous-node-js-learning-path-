@@ -1,0 +1,3 @@
+after creating git repo
+"git clone <add git link >"
+cd to file 
